@@ -1,3 +1,5 @@
+package Ders2.Laboratuvar;
+
 import java.util.Scanner;
 
 public class Kare {

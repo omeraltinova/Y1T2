@@ -1,3 +1,5 @@
+package Ders2.Laboratuvar;
+
 import com.sun.source.tree.IfTree;
 
 import java.util.Scanner;
@@ -23,7 +25,7 @@ public class sifre {
             break;
         }
         else{
-            System.out.println("Yanlis kullanici adi veya sifre\n\n---------------------------------");
+            System.out.println("Yanlis kullanici adi veya Ders2.Laboratuvar.sifre\n\n---------------------------------");
             System.out.println("");
             }
         }

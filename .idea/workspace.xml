@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b9d4fd60-739f-412d-9194-dcc6217b4633" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/banka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kelimesayaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sifre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ucgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/Randomsayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/boslukbulucu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/uzunlukkadaryildiz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/Kare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/banka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/banka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kelimesayaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/kelimesayaci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sifre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/sifre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ucgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/ucgen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,30 +31,45 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2dB7fDWGc5alEwxAcJRgffKfgIW" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/emira/Documents/Idea/Y1T2/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Randomsayi.executor": "Run",
+    "Application.boslukbulucu.executor": "Run",
+    "Application.uzunlukkadaryildiz.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/emira/Documents/Idea/Y1T2/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -58,11 +79,25 @@
       <option name="presentableId" value="Default" />
       <updated>1709469718230</updated>
       <workItem from="1709469719283" duration="3000" />
+      <workItem from="1709821927453" duration="3000" />
+      <workItem from="1709821954440" duration="21000" />
+      <workItem from="1709878178186" duration="306000" />
+      <workItem from="1709880104910" duration="2945000" />
     </task>
     <servers />
   </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
