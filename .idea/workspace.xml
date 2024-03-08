@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9d4fd60-739f-412d-9194-dcc6217b4633" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/Randomsayi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/boslukbulucu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/uzunlukkadaryildiz.java" afterDir="false" />
+    <list default="true" id="b9d4fd60-739f-412d-9194-dcc6217b4633" name="Changes" comment="Teorik ders">
+      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/HesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/HesapMakinesi2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/Kontrol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/Kontrol2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ders2/Teorik/Student1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/Kare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/banka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/banka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kelimesayaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/kelimesayaci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sifre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/sifre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ucgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ders2/Laboratuvar/ucgen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HesapMakinesi2.executor": "Run",
+    "Application.Kontrol2.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.Randomsayi.executor": "Run",
     "Application.boslukbulucu.executor": "Run",
     "Application.uzunlukkadaryildiz.executor": "Run",
@@ -82,8 +82,18 @@
       <workItem from="1709821927453" duration="3000" />
       <workItem from="1709821954440" duration="21000" />
       <workItem from="1709878178186" duration="306000" />
-      <workItem from="1709880104910" duration="2945000" />
+      <workItem from="1709880104910" duration="3290000" />
+      <workItem from="1709885560576" duration="2179000" />
     </task>
+    <task id="LOCAL-00001" summary="Teorik ders">
+      <option name="closed" value="true" />
+      <created>1709884207448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709884207448</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teorik ders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teorik ders" />
   </component>
 </project>
