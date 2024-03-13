@@ -1,4 +1,4 @@
-package Ders2.Teorik;
+package Hafta2.Teorik;
 
 public class Student1 {
     public static void main(String[] args) {

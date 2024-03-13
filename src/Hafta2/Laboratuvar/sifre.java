@@ -1,6 +1,4 @@
-package Ders2.Laboratuvar;
-
-import com.sun.source.tree.IfTree;
+package Hafta2.Laboratuvar;
 
 import java.util.Scanner;
 

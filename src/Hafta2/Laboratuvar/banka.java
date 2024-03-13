@@ -1,4 +1,4 @@
-package Ders2.Laboratuvar;
+package Hafta2.Laboratuvar;
 
 import java.util.Scanner;
 

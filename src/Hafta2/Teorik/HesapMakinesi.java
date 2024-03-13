@@ -1,4 +1,4 @@
-package Ders2.Teorik;
+package Hafta2.Teorik;
 
 import java.util.Scanner;
 public class HesapMakinesi {

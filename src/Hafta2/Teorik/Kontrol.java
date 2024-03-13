@@ -1,4 +1,4 @@
-package Ders2.Teorik;
+package Hafta2.Teorik;
 
 public class Kontrol {
 
