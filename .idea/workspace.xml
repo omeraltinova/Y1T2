@@ -1,33 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9d4fd60-739f-412d-9194-dcc6217b4633" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta3/Laboratuvar/BenKediyim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta3/Laboratuvar/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta3/Laboratuvar/DikdortgenClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta3/Laboratuvar/Fonksiyon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta3/Laboratuvar/FonksiyonMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta3/Laboratuvar/Kedi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta3/Laboratuvar/Matematik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta3/Laboratuvar/Ogrenci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta3/Laboratuvar/Students.java" afterDir="false" />
+    <list default="true" id="b9d4fd60-739f-412d-9194-dcc6217b4633" name="Changes" comment="Teorik ders">
+      <change afterPath="$PROJECT_DIR$/src/Hafta3/Teorik/Kopek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hafta3/Teorik/KopekClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hafta3/Teorik/MailVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hafta3/Teorik/MailVerifyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hafta3/Teorik/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hafta3/Teorik/WorkerClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Laboratuvar/Kare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Laboratuvar/Kare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Laboratuvar/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Laboratuvar/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Laboratuvar/banka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Laboratuvar/banka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Laboratuvar/kelimesayaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Laboratuvar/kelimesayaci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Laboratuvar/sifre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Laboratuvar/sifre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Laboratuvar/ucgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Laboratuvar/ucgen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Teorik/HesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Teorik/HesapMakinesi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Teorik/HesapMakinesi2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Teorik/HesapMakinesi2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Teorik/Kontrol.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Teorik/Kontrol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Teorik/Kontrol2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Teorik/Kontrol2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Teorik/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Teorik/Ogrenci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Teorik/Randomsayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Teorik/Randomsayi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Teorik/Student1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Teorik/Student1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Teorik/boslukbulucu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Teorik/boslukbulucu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ders2/Teorik/uzunlukkadaryildiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hafta2/Teorik/uzunlukkadaryildiz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +31,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -60,17 +47,32 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Kopek.executor": "Run",
+    "Application.MailVerify.executor": "Run",
+    "Application.Worker.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/emira/Documents/Idea/Y1T2/src/Main.java",
     "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,8 +82,23 @@
       <option name="presentableId" value="Default" />
       <updated>1709469718230</updated>
       <workItem from="1709469719283" duration="3000" />
+      <workItem from="1710487340953" duration="2285000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
