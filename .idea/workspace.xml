@@ -4,32 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9d4fd60-739f-412d-9194-dcc6217b4633" name="Changes" comment="Teorik ders Part-1">
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/BoslukSilme/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/EnUzunString/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/Matematik/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/MusteriPanel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/MusteriPanel/Musteri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/Poly/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/Poly/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/Poly/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/Poly/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/RandomSayiTahmin/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/RandomSayiTahmin/RandomOlustur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Bilet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Filmler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/System.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SirketYonetim/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SirketYonetim/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SirketYonetim/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SirketYonetim/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/UcakYonetim/BusinessYolcu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/UcakYonetim/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/UcakYonetim/Yolcu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/islemyap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/islemyap/islemyap.java" afterDir="false" />
+    <list default="true" id="b9d4fd60-739f-412d-9194-dcc6217b4633" name="Changes" comment="Laboratuvar kalan örnekler-1">
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/InnerClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/InnerClass/innercase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Bilet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Filmler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/System.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/CinemaSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +112,7 @@
       <workItem from="1712301583590" duration="2367000" />
       <workItem from="1712565984053" duration="1248000" />
       <workItem from="1712568759043" duration="308000" />
-      <workItem from="1713450424589" duration="9720000" />
+      <workItem from="1713450424589" duration="13040000" />
     </task>
     <task id="LOCAL-00001" summary="Teorik ders Part-1">
       <option name="closed" value="true" />
@@ -140,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712566013243</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Laboratuvar kalan örnekler-1">
+      <option name="closed" value="true" />
+      <created>1713464037997</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713464037997</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +149,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teorik ders Part-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Teorik ders Part-1" />
+    <MESSAGE value="Laboratuvar kalan örnekler-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laboratuvar kalan örnekler-1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
