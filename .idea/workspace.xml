@@ -5,15 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9d4fd60-739f-412d-9194-dcc6217b4633" name="Changes" comment="Teorik ders Part-1">
-      <change afterPath="$PROJECT_DIR$/src/Hafta6/Teorik/Abstract/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta6/Teorik/Abstract/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta6/Teorik/Abstract/FirstChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta6/Teorik/Abstract/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta6/Teorik/Abstract/SecondChild.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta6/Teorik/Interface/API.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta6/Teorik/Interface/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta6/Teorik/Interface/Interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta6/Teorik/Interface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/BoslukSilme/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/EnUzunString/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/Matematik/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/MusteriPanel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/MusteriPanel/Musteri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/Poly/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/Poly/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/Poly/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/Poly/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/RandomSayiTahmin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/RandomSayiTahmin/RandomOlustur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Bilet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Filmler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/System.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SirketYonetim/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SirketYonetim/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SirketYonetim/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SirketYonetim/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/UcakYonetim/BusinessYolcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/UcakYonetim/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/UcakYonetim/Yolcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/islemyap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/islemyap/islemyap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +39,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -38,14 +53,12 @@
     &quot;assignee&quot;: &quot;omeraltinova&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="34f0986a-849a-431f-baed-5a0bec2e5e31" />
-        <option name="url" value="https://github.com/omeraltinova/Y1T2.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/omeraltinova/Y1T2.git&quot;,
+    &quot;accountId&quot;: &quot;34f0986a-849a-431f-baed-5a0bec2e5e31&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -97,7 +110,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
       </set>
     </attachedChunks>
   </component>
@@ -114,7 +128,19 @@
       <workItem from="1711089359423" duration="5576000" />
       <workItem from="1711694224177" duration="4293000" />
       <workItem from="1712301583590" duration="2367000" />
+      <workItem from="1712565984053" duration="1248000" />
+      <workItem from="1712568759043" duration="308000" />
+      <workItem from="1713450424589" duration="9720000" />
     </task>
+    <task id="LOCAL-00001" summary="Teorik ders Part-1">
+      <option name="closed" value="true" />
+      <created>1712566013243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712566013243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +156,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Teorik ders Part-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teorik ders Part-1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
