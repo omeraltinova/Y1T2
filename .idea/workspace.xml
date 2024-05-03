@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9d4fd60-739f-412d-9194-dcc6217b4633" name="Changes" comment="Lab Part1">
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru1/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru1/Dikdortgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru1/Kare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru1/Sekil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru2/Arac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru2/elektronikAksamlar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru2/motorAksamlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru3/Str.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru4/Araba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru4/Arac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru4/IArac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Soru4/Main.java" afterDir="false" />
+    <list default="true" id="b9d4fd60-739f-412d-9194-dcc6217b4633" name="Changes" comment="Laboratuvar kalan örnekler-1">
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/InnerClass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/InnerClass/innercase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Bilet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Filmler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/System.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vize/Lab4KalanOrnekler/SinemaBilet/CinemaSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +21,31 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;omeraltinova&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/omeraltinova/Y1T2.git&quot;,
+    &quot;accountId&quot;: &quot;34f0986a-849a-431f-baed-5a0bec2e5e31&quot;
+  }
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -51,17 +60,43 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.DBConnect.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kalitim.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kalitim2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kopek.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MailVerify.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sensor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Worker.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/emira/Documents/Idea/Y1T2/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Hafta6.Teorik" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,12 +106,51 @@
       <option name="presentableId" value="Default" />
       <updated>1709469718230</updated>
       <workItem from="1709469719283" duration="3000" />
+      <workItem from="1710487340953" duration="2285000" />
+      <workItem from="1711089359423" duration="5576000" />
+      <workItem from="1711694224177" duration="4293000" />
+      <workItem from="1712301583590" duration="2367000" />
+      <workItem from="1712565984053" duration="1248000" />
+      <workItem from="1712568759043" duration="308000" />
+      <workItem from="1713450424589" duration="13040000" />
     </task>
+    <task id="LOCAL-00001" summary="Teorik ders Part-1">
+      <option name="closed" value="true" />
+      <created>1712566013243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712566013243</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Laboratuvar kalan örnekler-1">
+      <option name="closed" value="true" />
+      <created>1713464037997</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713464037997</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab Part1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab Part1" />
+    <MESSAGE value="Teorik ders Part-1" />
+    <MESSAGE value="Laboratuvar kalan örnekler-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laboratuvar kalan örnekler-1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
