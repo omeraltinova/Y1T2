@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9d4fd60-739f-412d-9194-dcc6217b4633" name="Changes" comment="Laboratuvar kalan örnekler-1">
-      <change afterPath="$PROJECT_DIR$/src/Hafta7/Laboratuvar/Soru1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hafta8/GUI1/ChatUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/AbstractAndInterface/Abs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/AbstractAndInterface/Inter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/AbstractAndInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Final/TryCatchThrowThrows/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hafta8/Teorik/EventListeners/Login/ButtonSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hafta8/Teorik/EventListeners/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/CustomFrameApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Test/cow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +41,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/omeraltinova/Y1T2.git&quot;,
-    &quot;accountId&quot;: &quot;34f0986a-849a-431f-baed-5a0bec2e5e31&quot;
+    &quot;accountId&quot;: &quot;e5da1e94-0bc3-4d41-9597-cdf922937d62&quot;
   }
 }</component>
   <component name="MarkdownSettingsMigration">
@@ -56,6 +63,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.ChatUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CustomFrameApp.executor&quot;: &quot;Run&quot;,
     &quot;Application.DBConnect.executor&quot;: &quot;Run&quot;,
     &quot;Application.Kalitim.executor&quot;: &quot;Run&quot;,
     &quot;Application.Kalitim2.executor&quot;: &quot;Run&quot;,
@@ -70,6 +79,7 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/emira/IdeaProjects/Y1T2/src/Test&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -81,6 +91,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\emira\IdeaProjects\Y1T2\src\Test" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Hafta6.Teorik" />
     </key>
@@ -88,8 +101,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -109,6 +122,10 @@
       <workItem from="1712565984053" duration="1248000" />
       <workItem from="1712568759043" duration="308000" />
       <workItem from="1713450424589" duration="13040000" />
+      <workItem from="1715927800937" duration="2919000" />
+      <workItem from="1716382001648" duration="467000" />
+      <workItem from="1716398403447" duration="4000" />
+      <workItem from="1717614149961" duration="3330000" />
     </task>
     <task id="LOCAL-00001" summary="Teorik ders Part-1">
       <option name="closed" value="true" />
